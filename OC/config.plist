@@ -48,14 +48,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Wake via USB</string>
-				<key>Enabled</key>
-				<true/>
-				<key>Path</key>
-				<string>SSDT-GPRW.aml</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>Perf 5xxx series</string>
 				<key>Enabled</key>
 				<true/>
@@ -297,6 +289,24 @@
 				<key>Arch</key>
 				<string>Any</string>
 				<key>BundlePath</key>
+				<string>CtlnaAHCIPort.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/CtlnaAHCIPort</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string>20.0.0</string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
 				<string>itlwm.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -466,24 +476,6 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/FakePCIID</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>FakePCIID_Intel_HDMI_Audio.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<false/>
-				<key>ExecutablePath</key>
-				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -846,6 +838,8 @@
 			<false/>
 			<key>ExternalDiskIcons</key>
 			<false/>
+			<key>ForceSecureBootScheme</key>
+			<false/>
 			<key>IncreasePciBarSize</key>
 			<false/>
 			<key>LapicKernelPanic</key>
@@ -1036,7 +1030,7 @@
 				<key>run-efi-updater</key>
 				<string>No</string>
 				<key>csr-active-config</key>
-				<data>5wMAAA==</data>
+				<data>/w8AAA==</data>
 				<key>prev-lang:kbd</key>
 				<string>en-US:0</string>
 			</dict>
