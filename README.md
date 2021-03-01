@@ -1,7 +1,8 @@
 # Hackintosh-asus-rog-strix-z490-e-gaming
-completed work for Asus Rog Strix z490e Gaming - i7 10700k - Asus Rx5700XT - Open core 0.6.4
+completed work for Asus Rog Strix z490e Gaming - i7 10700k - Asus Rx5700XT - Open core 0.6.5
 - Catalina 10.15.7
 - Big Sur 11.0.1
+- Big Sur 11.1
 # Hardware
     Motherboard: Asus ROG STRIX Z490-E Gaming
         Ethernet: Intel I225-V 2.5Gbit
