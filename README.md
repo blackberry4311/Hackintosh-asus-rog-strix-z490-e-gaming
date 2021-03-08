@@ -3,6 +3,9 @@ completed work for Asus Rog Strix z490e Gaming - i7 10700k - Asus Rx5700XT - Ope
 - Catalina 10.15.7
 - Big Sur 11.0.1
 - Big Sur 11.1
+- Big Sur 11.2
+- Big Sur 11.2.1
+- Big Sur 11.2.2
 # Hardware
     Motherboard: Asus ROG STRIX Z490-E Gaming
         Ethernet: Intel I225-V 2.5Gbit
