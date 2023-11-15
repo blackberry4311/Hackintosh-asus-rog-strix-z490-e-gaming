@@ -22,7 +22,9 @@ completed work for Asus Rog Strix z490e Gaming - i7 10700k - Asus Rx5700XT - Ope
 - [x] AMD Radeon VII (dGPU)
 - [x] Audio Realtek ALCS1220A
 - [x] Intel I225-V 2.5Gb Ethernet
-- [x] Wi-Fi/BT (Internal) - I didsabled it cause i didnt use
+- [x] Wi-Fi/BT (Internal)
+    - BT internal
+    - I didn't use internal WIFI since im using Ethernet, but this can easy fix by itlwm.kext + Heliport (tested)
 - [x] USB
 - [x] Restart/Shutdown
 - [x] Sleep/Wake
