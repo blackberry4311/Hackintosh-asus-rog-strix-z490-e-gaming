@@ -1,11 +1,12 @@
 # Hackintosh-asus-rog-strix-z490-e-gaming
-completed work for Asus Rog Strix z490e Gaming - i7 10700k - Asus Rx5700XT - Open core 0.6.6
+completed work for Asus Rog Strix z490e Gaming - i7 10700k - Asus Rx5700XT - Open core 0.9.6
 - Catalina 10.15.7
 - Big Sur 11.0.1
 - Big Sur 11.1
 - Big Sur 11.2
 - Big Sur 11.2.1
 - Big Sur 11.2.2
+- Sonoma 14.1
 # Hardware
     Motherboard: Asus ROG STRIX Z490-E Gaming
         Ethernet: Intel I225-V 2.5Gbit
@@ -13,7 +14,7 @@ completed work for Asus Rog Strix z490e Gaming - i7 10700k - Asus Rx5700XT - Ope
         Audio: Realtek ALCS1220A
     CPU: Intel i7-10700k
     GPU: Intel UHD630 / AMD Radeon VII (Asus ROG STRIX RX5700XT)
-    RAM: DDR4 Gskill 32G/3000 Trident Z NEO RGB
+    RAM: DDR4 Gskill 64G/3600 Trident Z NEO RGB
 
 
 # What's working
@@ -21,7 +22,7 @@ completed work for Asus Rog Strix z490e Gaming - i7 10700k - Asus Rx5700XT - Ope
 - [x] AMD Radeon VII (dGPU)
 - [x] Audio Realtek ALCS1220A
 - [x] Intel I225-V 2.5Gb Ethernet
-- [x] Wi-Fi/BT (Internal)
+- [x] Wi-Fi/BT (Internal) - I didsabled it cause i didnt use
 - [x] USB
 - [x] Restart/Shutdown
 - [x] Sleep/Wake
