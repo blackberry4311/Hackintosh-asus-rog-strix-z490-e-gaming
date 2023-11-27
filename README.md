@@ -24,10 +24,12 @@ completed work for Asus Rog Strix z490e Gaming - i7 10700k - Asus Rx5700XT - Ope
 - [x] Intel I225-V 2.5Gb Ethernet
 - [x] Wi-Fi/BT (Internal)
     - BT internal
-    - I didn't use internal WIFI since im using Ethernet, but this can easy fix by itlwm.kext + Heliport (tested)
+    - Internal wifi work, added new Airport kext
 - [x] USB
 - [x] Restart/Shutdown
 - [x] Sleep/Wake
 - [x] Power Management (Native support)
 
-Detail will be added later
+Still working on secureboot
+
+Details will be added later
